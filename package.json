@@ -1,5 +1,5 @@
 {
-  "name": "trunk-text",
+  "name": "@swelldunweb/trunk-text",
   "version": "0.1.0",
   "description": "SwellDun TrunkText Package",
   "module": "dist/index.esm.js",
